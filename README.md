@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Shaurya Roongta 👋
 
-<!--
-**shauryaroongta-dev/shauryaroongta-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Science @ UC San Diego
 
-Here are some ideas to get you started:
+I'm a freshman studying Data Science at UC San Diego, interested in
+Artificial Intelligence, Quantitative Finance, and data-driven problem solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Working On
+
+- 📊 Data Science & Predictive Analytics
+- 🤖 Artificial Intelligence & Machine Learning
+- 📈 Quantitative Finance
+- 🧠 Exploring how data can be used to understand markets and people
+
+## 🛠️ Technical Skills
+
+**Languages & Tools**
+- Python
+- SQL
+- Excel
+- Looker Studio
+
+**Interests**
+- Data Science
+- Machine Learning
+- Predictive Modeling
+- Quantitative Analytics
+- AI
+
+## 📌 Featured Projects
+
+### 🏏 IPL Auction Simulator
+Object-oriented Python simulation modeling IPL player valuations
+and team bidding strategies using historical performance data.
+
+### 🔎 MicroMarket AI
+Predictive analytics platform designed to help SMEs identify
+untapped local demand and prioritize expansion markets.
+
+### 🤖 AI & Digital Brand Loyalty Research
+Research examining the relationship between AI-driven personalization,
+customer retention, and digital brand loyalty.
+
+## 📚 Currently Learning
+
+Python • Statistics • Machine Learning • SQL • Quantitative Finance
+
+## 🔗 Connect With Me
+
+[LinkedIn](www.linkedin.com/in/shaurya-roongta)
