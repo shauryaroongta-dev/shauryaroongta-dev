@@ -29,9 +29,8 @@ Artificial Intelligence, Quantitative Finance, and data-driven problem solving.
 
 ## 📌 Featured Projects
 
-### 🏏 IPL Auction Simulator
-Object-oriented Python simulation modeling IPL player valuations
-and team bidding strategies using historical performance data.
+### 🏏 [IPL Auction Simulator](https://github.com/shauryaroongta-dev/ipl-auction-simulator)
+Python + MySQL IPL auction simulator featuring rule-based bot bidding, budget management, and team analytics.
 
 ### 🔎 MicroMarket AI
 Predictive analytics platform designed to help SMEs identify
