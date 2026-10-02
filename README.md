@@ -32,11 +32,11 @@ Artificial Intelligence, Quantitative Finance, and data-driven problem solving.
 ### 🏏 [IPL Auction Simulator](https://github.com/shauryaroongta-dev/ipl-auction-simulator)
 Python + MySQL IPL auction simulator featuring rule-based bot bidding, budget management, and team analytics.
 
-### 🔎 MicroMarket AI
+### 🔎 [MicroMarket AI](https://micromarket-ai.lovable.app/)
 Predictive analytics platform designed to help SMEs identify
 untapped local demand and prioritize expansion markets.
 
-### 🤖 AI & Digital Brand Loyalty Research
+### 🤖 [AI & Digital Brand Loyalty Research](https://tijer.org/tijer/viewpaperforall.php?paper=TIJER2602025)
 Research examining the relationship between AI-driven personalization,
 customer retention, and digital brand loyalty.
 
