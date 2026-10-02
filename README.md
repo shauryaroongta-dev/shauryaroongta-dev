@@ -33,8 +33,10 @@ Artificial Intelligence, Quantitative Finance, and data-driven problem solving.
 Python + MySQL IPL auction simulator featuring rule-based bot bidding, budget management, and team analytics.
 
 ### 🔎 [MicroMarket AI](https://micromarket-ai.lovable.app/)
-Predictive analytics platform designed to help SMEs identify
+Live predictive-analytics platform I built to help SMEs identify
 untapped local demand and prioritize expansion markets.
+
+*Built with Lovable and integrated with data/APIs for analytics and forecasting.*
 
 ### 🤖 [AI & Digital Brand Loyalty Research](https://tijer.org/tijer/viewpaperforall.php?paper=TIJER2602025)
 Research examining the relationship between AI-driven personalization,
